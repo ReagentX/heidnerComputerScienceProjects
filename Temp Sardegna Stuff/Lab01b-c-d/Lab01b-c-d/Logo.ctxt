@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Logo()
+comment1.params=window
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=window
+comment2.target=void\ redCircle(java.awt.Graphics)
+comment3.params=window
+comment3.target=void\ yellowCircle(java.awt.Graphics)
+comment4.params=window
+comment4.target=void\ greenCircle(java.awt.Graphics)
+comment5.params=window
+comment5.target=void\ logoText(java.awt.Graphics)
+numComments=6

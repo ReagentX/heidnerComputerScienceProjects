@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=iRay\ val
+comment0.target=int\ countIt(int[],\ int)
+comment0.text=\r\n\ countIt\ should\ return\ a\ count\ that\r\n\ states\ how\ many\ times\ val\ exists\r\n\ in\ the\ array\ iRay\r\n
+comment1.params=iRay
+comment1.target=void\ printIt(int[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

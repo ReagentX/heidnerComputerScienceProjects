@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LetterRemover()
+comment1.params=s\ rem
+comment1.target=LetterRemover(java.lang.String,\ java.lang.String)
+comment2.params=s\ rem
+comment2.target=void\ setRemover(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ removeLetters()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

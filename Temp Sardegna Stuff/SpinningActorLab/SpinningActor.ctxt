@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpinningActor()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ write\ the\ act\ thisthod\ so\ that\ the\ actor\ will\ turn\ 45\ degress\ every\ step\r\n\ be\ careful\!\r\n
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+numComments=3

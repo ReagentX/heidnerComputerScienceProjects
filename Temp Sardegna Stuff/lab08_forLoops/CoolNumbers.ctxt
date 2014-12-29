@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ isCoolNumber(int)
+comment0.text=\r\nmethod\ isCoolNumber\ will\ return\ true\ if\r\n\ \ num\ %\ 3-6\ all\ have\ a\ remainder\ of\ 1\r\nit\ will\ return\ false\ otherwize\r\n
+comment1.params=stop
+comment1.target=int\ countCoolNumbers(int)
+comment1.text=\r\nmethod\ countCoolNumbers\ will\ return\ the\ count\r\nof\ the\ coolNumbers\ between\ 6\ and\ stop\r\n
+numComments=2

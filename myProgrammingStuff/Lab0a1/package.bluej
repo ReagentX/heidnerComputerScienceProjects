@@ -1,0 +1,26 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=23
+package.editor.y=617
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.editor.height=700
+readme.editor.width=900
+readme.editor.x=62
+readme.editor.y=27
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=743
+target1.editor.y=200
+target1.height=50
+target1.name=Lab0a1
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=70
+target1.y=10

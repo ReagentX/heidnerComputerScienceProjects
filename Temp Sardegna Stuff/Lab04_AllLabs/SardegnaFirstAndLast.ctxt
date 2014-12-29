@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SardegnaFirstAndLast()
+comment1.params=s
+comment1.target=SardegnaFirstAndLast(java.lang.String)
+comment2.params=s
+comment2.target=void\ setString(java.lang.String)
+comment3.params=
+comment3.target=void\ findFirstLastLetters()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ getWord()
+comment6.params=
+comment6.target=char\ getFirstLetter()
+comment7.params=
+comment7.target=char\ getLastLetter()
+numComments=8

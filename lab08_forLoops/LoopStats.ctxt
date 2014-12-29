@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LoopStats()
+comment1.params=beg\ end
+comment1.target=LoopStats(int,\ int)
+comment2.params=beg\ end
+comment2.target=void\ setNums(int,\ int)
+comment3.params=
+comment3.target=int\ getEvenCount()
+comment4.params=
+comment4.target=int\ getOddCount()
+comment5.params=
+comment5.target=int\ getTotal()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

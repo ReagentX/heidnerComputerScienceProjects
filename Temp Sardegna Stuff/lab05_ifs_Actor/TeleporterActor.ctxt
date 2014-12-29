@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TeleporterActor()
+comment1.params=e\ col
+comment1.target=TeleporterActor(int,\ java.awt.Color)
+comment2.params=
+comment2.target=java.awt.Color\ getRandomColor()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+numComments=5

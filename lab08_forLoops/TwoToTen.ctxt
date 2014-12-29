@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TwoToTen()
+comment1.params=bin
+comment1.target=TwoToTen(java.lang.String)
+comment2.params=bin
+comment2.target=void\ setTwo(java.lang.String)
+comment3.params=
+comment3.target=long\ getBaseTen()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

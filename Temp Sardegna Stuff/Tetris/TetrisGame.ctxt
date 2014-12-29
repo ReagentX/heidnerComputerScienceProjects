@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Handles\ game\ simulation\ and\ KeyEvent\ handling\r\n\ NOTE\:\ YOU\ DO\ NOT\ NEED\ TO\ WRITE\ ANY\ CODE\ IN\ THE\ main\r\n
+comment1.params=event
+comment1.target=boolean\ dispatchKeyEvent(java.awt.event.KeyEvent)
+comment2.params=
+comment2.target=void\ nextTetrisBlock()
+comment2.text=\r\n\ Calls\ removeCompleteRows\ and\ chooses\ a\ new\ TetrisBlock\ at\ random\r\n
+comment3.params=
+comment3.target=void\ removeCompleteRows()
+comment3.text=\r\n\ checks\ each\ row\ 1\ through\ 18\ (skip\ row\ 0)\ for\ full\ rows\r\n\ if\ a\ row\ is\ full,\ then\ remove\ the\ actor\ from\ each\ cell\ in\ that\ row\r\n\ and\ ask\ each\ actor\ located\ above\ the\ just\ deleted\ row\ to\ act\ and\r\n\ update\ the\ score++\r\n
+numComments=4

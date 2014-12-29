@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numArray
+comment0.target=boolean\ goingUp(int[])
+comment1.params=numArray
+comment1.target=boolean\ goingDown(int[])
+comment2.params=numArray\ count\ x
+comment2.target=int[]\ getCountValuesBiggerThanX(int[],\ int,\ int)
+numComments=3

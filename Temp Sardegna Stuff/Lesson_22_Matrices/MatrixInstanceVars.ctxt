@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numRows\ numCols
+comment0.target=MatrixFun(int,\ int)
+comment1.params=row\ col\ val
+comment1.target=void\ setSpot(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

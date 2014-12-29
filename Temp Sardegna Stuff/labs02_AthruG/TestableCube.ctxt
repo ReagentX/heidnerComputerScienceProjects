@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ setSide(int)
+comment1.params=
+comment1.target=void\ calculateSurfaceArea()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=int\ getSide()
+comment4.params=
+comment4.target=int\ getSurfaceArea()
+numComments=5

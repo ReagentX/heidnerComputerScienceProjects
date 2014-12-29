@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grub()
+comment1.params=
+comment1.target=int\ getRandomDirection()
+comment2.params=
+comment2.target=java.util.ArrayList\ getMoveLocations()
+comment3.params=locs
+comment3.target=info.gridworld.grid.Location\ selectMoveLocation(java.util.ArrayList)
+numComments=4

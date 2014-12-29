@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=width\ heigth
+comment0.target=AnimatedCar(int,\ int)
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=window
+comment2.target=void\ update(java.awt.Graphics)
+comment3.params=window
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n1\ n2
+comment0.target=void\ setNums(int,\ int)
+comment1.params=
+comment1.target=void\ add()
+comment2.params=
+comment2.target=void\ print()
+numComments=3

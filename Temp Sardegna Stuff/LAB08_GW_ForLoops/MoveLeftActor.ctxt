@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=color\ direction
+comment0.target=MoveLeftActor(java.awt.Color,\ int)
+comment1.params=loc\ direction
+comment1.target=info.gridworld.grid.Location\ getFirstEmptyLoc(info.gridworld.grid.Location,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

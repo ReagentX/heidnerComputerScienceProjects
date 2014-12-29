@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=NumberVerify(int)
+comment1.params=num
+comment1.target=boolean\ isOdd(int)
+comment2.params=num
+comment2.target=boolean\ isEven(int)
+numComments=3

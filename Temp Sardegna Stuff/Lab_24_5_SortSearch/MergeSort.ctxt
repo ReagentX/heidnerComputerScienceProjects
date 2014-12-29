@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=void\ mergeSort(java.lang.Comparable[])
+comment1.params=list\ front\ back
+comment1.target=void\ mergeSort(java.lang.Comparable[],\ int,\ int)
+comment2.params=list\ front\ back
+comment2.target=void\ merge(java.lang.Comparable[],\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

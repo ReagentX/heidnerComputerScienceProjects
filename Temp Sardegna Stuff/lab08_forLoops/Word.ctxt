@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Word()
+comment1.params=s
+comment1.target=Word(java.lang.String)
+comment2.params=s
+comment2.target=void\ setString(java.lang.String)
+comment3.params=
+comment3.target=char\ getFirstChar()
+comment4.params=
+comment4.target=char\ getLastChar()
+comment5.params=
+comment5.target=java.lang.String\ getBackWards()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

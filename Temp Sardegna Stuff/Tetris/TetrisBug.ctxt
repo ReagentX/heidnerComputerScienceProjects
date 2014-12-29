@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=col
+comment0.target=TetrisBug(java.awt.Color)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

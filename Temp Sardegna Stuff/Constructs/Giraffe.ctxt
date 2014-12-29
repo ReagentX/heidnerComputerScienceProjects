@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Giraffe()
+comment1.params=a
+comment1.target=Giraffe(int)
+comment2.params=b\ c
+comment2.target=Giraffe(int,\ java.lang.String)
+comment3.params=d\ e\ f
+comment3.target=Giraffe(int,\ java.lang.String,\ boolean)
+comment4.params=g\ h\ i\ j
+comment4.target=Giraffe(int,\ java.lang.String,\ boolean,\ double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

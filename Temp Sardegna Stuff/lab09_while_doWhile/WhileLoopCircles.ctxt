@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WhileLoopCircles()
+comment1.params=window
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=window
+comment2.target=void\ drawCircles(java.awt.Graphics)
+numComments=3

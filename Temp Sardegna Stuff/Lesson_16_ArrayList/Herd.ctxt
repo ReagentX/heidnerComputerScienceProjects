@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Herd()
+comment1.params=creatureSize
+comment1.target=void\ add(int)
+comment2.params=
+comment2.target=int\ countBigOnes()
+comment2.text=\ method\ countBigOnes\ should\ return\ the\ count\ of\r\n\t\ \ \ \ big\ creatures\ -\ use\ the\ isBig()\ Creature\ method\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

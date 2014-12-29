@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x1\ y1\ x2\ y2
+comment0.target=void\ setCoordinates(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ print()
+comment2.params=
+comment2.target=int\ getXOne()
+comment3.params=
+comment3.target=int\ getYOne()
+comment4.params=
+comment4.target=int\ getXTwo()
+comment5.params=
+comment5.target=int\ getYTwo()
+comment6.params=
+comment6.target=double\ getSlope()
+numComments=7

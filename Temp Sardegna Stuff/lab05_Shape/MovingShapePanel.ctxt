@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MovingShapePanel()
+comment1.params=window
+comment1.target=void\ update(java.awt.Graphics)
+comment2.params=window
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ run()
+numComments=4

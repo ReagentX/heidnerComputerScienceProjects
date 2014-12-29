@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=gr
+comment0.target=MineField(info.gridworld.grid.Grid)
+comment1.params=loc
+comment1.target=boolean\ locationClicked(info.gridworld.grid.Location)
+comment2.params=
+comment2.target=void\ checkIfWon()
+comment3.params=
+comment3.target=void\ initGridColorHack()
+comment4.params=c\ r\ g\ b
+comment4.target=void\ setColorProp(java.awt.Color,\ int,\ int,\ int)
+comment5.params=win
+comment5.target=void\ gameOver(boolean)
+numComments=6

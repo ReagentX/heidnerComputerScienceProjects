@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=amt
+comment0.target=Discount(double)
+comment1.params=amt
+comment1.target=double\ getDiscountedBill(double)
+numComments=2

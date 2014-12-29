@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ rem
+comment0.target=void\ setRemover(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ removeStrings()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

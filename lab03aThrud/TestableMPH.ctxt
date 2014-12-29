@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=dist\ hrs\ mins
+comment0.target=void\ setNums(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ calcMPH()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=int\ getDistance()
+comment4.params=
+comment4.target=int\ getHours()
+comment5.params=
+comment5.target=int\ getMinutes()
+comment6.params=
+comment6.target=double\ getMPH()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MultTable()
+comment1.params=num\ end
+comment1.target=MultTable(int,\ int)
+comment2.params=num\ end
+comment2.target=void\ setTable(int,\ int)
+comment3.params=
+comment3.target=void\ printTable()
+numComments=4

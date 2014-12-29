@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BiggestDouble()
+comment1.params=a\ b\ c\ d
+comment1.target=BiggestDouble(double,\ double,\ double,\ double)
+comment2.params=a\ b\ c\ d
+comment2.target=void\ setDoubles(double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=double\ getBiggest()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

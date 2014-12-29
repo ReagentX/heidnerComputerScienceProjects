@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ship()
+comment1.params=x\ y
+comment1.target=Ship(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ setPos(int,\ int)
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=y
+comment4.target=void\ setY(int)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

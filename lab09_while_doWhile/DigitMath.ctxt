@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=double\ countDigits(int)
+comment1.params=num
+comment1.target=double\ sumDigits(int)
+comment2.params=num
+comment2.target=double\ averageDigits(int)
+numComments=3

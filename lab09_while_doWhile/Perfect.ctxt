@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Perfect()
+comment1.params=num
+comment1.target=Perfect(int)
+comment2.params=num
+comment2.target=void\ setNums(int)
+comment3.params=
+comment3.target=boolean\ isPerfect()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

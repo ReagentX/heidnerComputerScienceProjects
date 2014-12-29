@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GCD()
+comment1.params=numOne\ numTwo
+comment1.target=GCD(int,\ int)
+comment2.params=numOne\ numTwo
+comment2.target=void\ setNums(int,\ int)
+comment3.params=
+comment3.target=long\ getGCD()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

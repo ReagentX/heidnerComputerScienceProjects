@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StuckInARutBug()
+comment1.params=col\ dir
+comment1.target=StuckInARutBug(java.awt.Color,\ int)
+comment2.params=
+comment2.target=void\ turn()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

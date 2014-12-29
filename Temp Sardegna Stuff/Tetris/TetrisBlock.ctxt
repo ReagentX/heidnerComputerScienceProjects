@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TetrisBlock()
+comment0.text=\r\n\ default\ constructor\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ TetrisBlock\ and\ its\ TetrisBugs\ must\ face\ down\ (direction\ 180)\ If\ they\ can\r\n\ move\ down,\ they\ will.\ Otherwise,\ it\ will\ ask\ TetrisGame\ to\ create\ a\ new\r\n\ TetrisBlock\ since\ this\ one\ is\ stuck\ at\ the\ bottom.\r\n
+comment2.params=
+comment2.target=void\ moveDown()
+comment2.text=\r\n\ Move\ the\ TetrisBlock\ and\ its\ TetrisBugs\ one\ cell.\ (they\ should\ already\ be\r\n\ facing\ down)\ Note\:\ The\ order\ in\ which\ all\ the\ TetrisBugs\ move\ is\ important\r\n\ and\ depends\ on\ the\ current\ rotationPos.\r\n
+comment3.params=
+comment3.target=boolean\ canMoveDown()
+comment3.text=\r\n\ Returns\ true\ if\ the\ TetrisBlock\ and\ its\ TetrisBugs\ can\ move\ (they\ should\r\n\ already\ be\ facing\ down)\ Otherwise,\ returns\ false.\r\n
+comment4.params=
+comment4.target=void\ moveRight()
+comment4.text=\r\n\ Sets\ the\ direction\ of\ the\ TetrisBlock\ and\ its\ TetrisBugs\ to\ 90\ (right)\ If\r\n\ they\ can\ move,\ they\ will\ move\ one\ cell\ (to\ the\ right)\r\n
+comment5.params=
+comment5.target=void\ moveLeft()
+comment5.text=\r\n\ Sets\ the\ direction\ of\ the\ TetrisBlock\ and\ its\ TetrisBugs\ to\ 90\ (right)\ If\r\n\ they\ can\ move,\ they\ will\ move\ one\ cell\ (to\ the\ right)\r\n
+comment6.params=
+comment6.target=void\ rotate()
+comment6.text=\r\n\ If\ the\ TetrisBlock\ and\ its\ TetrisBugs\ can\ rotate,\ then\ they\ will\ all\ move\r\n\ to\ their\ proper\ location\ for\ the\ given\ rotation\ designated\ by\r\n\ rotationPos...\ Update\ rotationPos.\r\n
+numComments=7

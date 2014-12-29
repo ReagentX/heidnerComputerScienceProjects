@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monster()
+comment1.params=n\ size
+comment1.target=Monster(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getHowBig()
+comment4.params=other
+comment4.target=boolean\ isBigger(Monster)
+comment5.params=other
+comment5.target=boolean\ isSmaller(Monster)
+comment6.params=other
+comment6.target=boolean\ namesTheSame(Monster)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

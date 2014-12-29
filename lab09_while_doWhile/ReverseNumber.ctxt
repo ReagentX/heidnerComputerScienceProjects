@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ReverseNumber()
+comment1.params=num
+comment1.target=ReverseNumber(int)
+comment2.params=num
+comment2.target=int\ getReverse(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

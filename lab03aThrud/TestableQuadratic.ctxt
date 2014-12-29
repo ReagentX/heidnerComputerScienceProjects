@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=quadA\ quadB\ quadC
+comment0.target=void\ setEquation(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ calcRoots()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=
+comment3.target=int\ getA()
+comment4.params=
+comment4.target=int\ getB()
+comment5.params=
+comment5.target=int\ getC()
+comment6.params=
+comment6.target=double\ getRootOne()
+comment7.params=
+comment7.target=double\ getRootTwo()
+numComments=8

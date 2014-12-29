@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Robot()
+comment1.params=window
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=window
+comment2.target=void\ head(java.awt.Graphics)
+comment3.params=window
+comment3.target=void\ upperBody(java.awt.Graphics)
+comment4.params=window
+comment4.target=void\ lowerBody(java.awt.Graphics)
+numComments=5

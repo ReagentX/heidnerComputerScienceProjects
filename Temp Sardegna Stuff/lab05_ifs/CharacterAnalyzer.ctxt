@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CharacterAnalyzer()
+comment1.params=c
+comment1.target=CharacterAnalyzer(char)
+comment2.params=c
+comment2.target=void\ setChar(char)
+comment3.params=
+comment3.target=char\ getChar()
+comment4.params=
+comment4.target=boolean\ isUpper()
+comment5.params=
+comment5.target=boolean\ isLower()
+comment6.params=
+comment6.target=boolean\ isNumber()
+comment7.params=
+comment7.target=int\ getASCII()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

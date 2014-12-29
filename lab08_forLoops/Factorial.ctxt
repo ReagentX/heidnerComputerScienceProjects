@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Factorial()
+comment1.params=num
+comment1.target=Factorial(int)
+comment2.params=num
+comment2.target=void\ setNum(int)
+comment3.params=
+comment3.target=int\ getNum()
+comment4.params=
+comment4.target=long\ getFactorial()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
